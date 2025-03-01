@@ -1,10 +1,6 @@
-lsi: false
-safe: true
-source: [your repo's top level directory]
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+title: Project documentation
+author: Edgar Pisano
+description: "A collection of my projects"
+theme: minima  # Simple default theme
+plugins:
+  - jekyll-feed
