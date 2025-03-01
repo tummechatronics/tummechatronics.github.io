@@ -2,5 +2,6 @@ title: Project documentation
 author: Edgar Pisano
 description: "A collection of my projects"
 theme: minima  # Simple default theme
+repository: tummechatronics/tummechatronics.github.io
 plugins:
   - jekyll-feed
